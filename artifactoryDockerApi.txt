@@ -1,1 +1,4 @@
 https://stackoverflow.com/questions/44753357/how-to-get-the-dockertag-label-via-the-artifactory-api
+
+
+https://github.com/JFrogDev/artifactory-scripts
